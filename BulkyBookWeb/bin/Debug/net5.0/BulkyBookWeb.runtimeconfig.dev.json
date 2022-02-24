@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zafeer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zafeer\\.nuget\\packages"
+    ]
+  }
+}
